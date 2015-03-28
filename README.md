@@ -50,7 +50,7 @@ docker run --name='activiti' -it --rm \
 gtudan/docker-activiti:latest
 ```
 
-Point your browser to `http://localhost:8080` and login using the default username and password:
+Point your browser to `http://localhost:8080/activiti-explorer/` and login using the default username and password:
 
 * username: **kermit**
 * password: **kermit**
